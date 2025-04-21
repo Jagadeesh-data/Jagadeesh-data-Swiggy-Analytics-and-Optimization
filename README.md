@@ -10,7 +10,7 @@ I am Ramavath Jagadeesh, an MBA student specializing in Operations and Business 
 
 - **Project Title**: Swiggy Analytics and Optimization
 - **Duration**: Conducted as part of my skill development, completed by April 2025.
-- **Tools Used**: Power BI, Tableau
+- **Tools Used**: Power BI
 - **Focus**: Analyzed Swiggy’s order data, user behaviour, city performance, restaurant metrics, and provided optimization insights.
 
 - **Key Deliverables**:
