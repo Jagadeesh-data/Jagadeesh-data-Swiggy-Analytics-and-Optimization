@@ -1,4 +1,4 @@
-# Jagadeesh-Portfolio - Swiggy Analytics and Optimization
+# Analyzing Swiggy's Business Performance and Optimization
 
 Welcome to my GitHub portfolio! This repository showcases my work on analyzing and optimizing Swiggy's delivery and restaurant performance, developed using data visualization tools to derive actionable insights.
 
